@@ -1,9 +1,10 @@
 ---
-title: "Billing & Pricing"
+title: "Networks & visualization"
 date: 2018-12-28T11:02:05+06:00
-icon: "ti-credit-card"
-description: "Lorem ipsum dolor sit amet ipsum dolor sit amet ipsum dolor sit amet"
+icon: "ti-truck"
+description: "Bobbins ipsum dolor sit amet ipsum dolor sit amet ipsum dolor sit amet"
 type : "docs"
+categories: networks
 ---
 
 Many businesses employ full-time pricing analysts or hire an analyst as a consultant for a particular project or concern.
