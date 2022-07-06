@@ -54,6 +54,23 @@ h6,
   font-size: 14px;
 }
 
+.front{
+	font-size: 26px;
+	text-align: left;
+}
+
+.fronticon{
+	float: left;
+	margin-right: 15px
+}
+
+.frontpara{
+	text-align: left;
+	clear: left
+}
+
+
+
 /* Button style */
 .btn {
   font-size: 14px;
