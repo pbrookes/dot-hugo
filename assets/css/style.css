@@ -69,6 +69,24 @@ h6,
 	clear: left
 }
 
+.frontlist{
+	text-align: left;
+	list-style-type: square;
+	padding-left: 5px;
+    margin-left: 20px;
+	column-count: 2;
+}
+
+.frontbox-icon{
+	padding-bottom: 0.15rem!important;
+	padding-top: 0.15rem!important;
+}
+
+.frontbox-list{
+	padding-bottom: 0.75rem!important;
+	padding-top: .25rem!important;
+	column-count: 2;
+}
 
 
 /* Button style */
