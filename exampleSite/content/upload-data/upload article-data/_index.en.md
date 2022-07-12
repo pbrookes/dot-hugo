@@ -19,13 +19,10 @@ To save time, you may want to download one of the pre-filled templates on the Up
 
 ## Upload a location file
 
-1.  On your project homepage, ensure **Master data** is selected in the upper tab bar and **Locations** is selected in the lower tab bar. 
-    
-![Tabs](https://i.imgur.com/3QHYhZ5.png)
-    
-2.  Press the button **Add or update locations**
-    
-3.  In the **Upload your data** area of the Upload Locations page, you can drag your file onto the gray pane, or locate the file on your PC by selecting **Select from file**.
+1. On your project homepage, ensure **Master data** is selected in the upper tab bar and **Locations** is selected in the lower tab bar. 
+![Tabs](https://i.imgur.com/3QHYhZ5.png)   
+1. Press the button **Add or update locations**
+1. In the **Upload your data** area of the Upload Locations page, you can drag your file onto the gray pane, or locate the file on your PC by selecting **Select from file**.
     
 
 ## Edit location data
